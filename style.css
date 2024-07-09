@@ -5,3 +5,12 @@ a {
   font-style: italic;
   font-size: medium;
 }
+
+video {
+  text-align: center;
+}
+body {
+  background-image: url(./img/pngtree-cute-kappa-in-japanese-mythology-cartoon-style-png-image_3610151.jpg);
+  opacity: 100;
+  text-align: center;
+}
